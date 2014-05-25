@@ -8,4 +8,7 @@ git clone https://github.com/rshino/ProgrammingAssignment2.git
 
 edited, then committed
 
+git status -s
+git add NOTES
+
 git push origin master
