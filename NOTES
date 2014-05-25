@@ -1,0 +1,11 @@
+AUTHOR: Rei Shinozuka shino@panix.com (github id = rshino)
+DATE: 5/25/2014
+Forked from repository:
+https://github.com/rdpeng/ProgrammingAssignment2
+
+then cloned
+git clone https://github.com/rshino/ProgrammingAssignment2.git
+
+edited, then committed
+
+git push origin master
